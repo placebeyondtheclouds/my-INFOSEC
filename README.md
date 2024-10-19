@@ -1,4 +1,4 @@
-## Reports and blogs on information security
+## Reports, blogs and resources on information security
 
 - ### Noise storms
 
