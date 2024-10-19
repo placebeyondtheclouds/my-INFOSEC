@@ -1,5 +1,7 @@
 ## Reports, blogs and resources on information security
 
+more links for security resources: https://github.com/mthcht/awesome-lists
+
 - ### Noise storms
 
   - https://darthnull.org/noisestorms/
@@ -28,6 +30,12 @@
   - https://docs.rapid7.com/insightidr/apt-groups/
   - https://www.mandiant.com/resources/insights/apt-groups
   - https://unit42.paloaltonetworks.com/stately-taurus-abuses-vscode-southeast-asian-espionage/
+
+- ### Ransomware TTPs and tools
+
+  - https://github.com/crocodyli/ThreatActors-TTPs
+  - https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/AllTools.csv
+  - https://gist.github.com/BushidoUK/c6eebfbaaa9058f508233f8551de61ab
 
 - ### Threat intelligence
 
