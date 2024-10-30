@@ -1,6 +1,5 @@
 # gti clone https://github.com/JonGood/vulhub-lab.git
 
-version: "2.2"
 services:
   # https://github.com/vulhub/vulhub/tree/master/bash/shellshock
   shellshock:
@@ -58,7 +57,7 @@ services:
         ipv4_address: 10.1.1.8
 
   telnetserver:
-    build: /home/$USER/vulhub-lab/telnetserver
+    build: /home/$USER/vulhub-lab/telnetserver/
     container_name: telnetserver
     tty: true
     ports:
@@ -95,10 +94,10 @@ services:
         ipv4_address: 10.1.1.12
 
   kali:
-    build: ./kali
+    #build: /home/$USER/vulhub-lab/kali/
     # Note: If you don't want to build everything, use the image then apt install what you want/need
     # Also note: Building everything, even kali-linux-headless, takes a really long time to build
-    #image: kalilinux/kali-rolling
+    image: kalilinux/kali-rolling
     container_name: kali
     hostname: kali
     tty: true
