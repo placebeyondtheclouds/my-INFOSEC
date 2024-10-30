@@ -70,3 +70,11 @@ more links for security resources: https://github.com/mthcht/awesome-lists
 - ### Presentations from conferences
 
   - https://media.defcon.org/
+
+# deploy security research env
+
+- `git clone https://github.com/JonGood/vulhub-lab.git`
+- replace docker-compose.yml with [vulnhub-lab.yml](vulnhub-lab.yml)
+- `sudo docker compose up`
+- `sudo docker exec -it kali /bin/bash`
+- `sudo docker compose down`

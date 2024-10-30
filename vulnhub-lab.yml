@@ -1,4 +1,4 @@
-# gti clone https://github.com/JonGood/vulhub-lab.git
+# git clone https://github.com/JonGood/vulhub-lab.git
 
 services:
   # https://github.com/vulhub/vulhub/tree/master/bash/shellshock
@@ -8,8 +8,8 @@ services:
     ports:
       - "80"
     volumes:
-      - /home/$USER/vulhub-lab/bash/shellshock/safe.cgi:/var/www/html/safe.cgi
-      - /home/$USER/vulhub-lab/bash/shellshock/victim.cgi:/var/www/html/victim.cgi
+      - ./bash/shellshock/safe.cgi:/var/www/html/safe.cgi
+      - ./bash/shellshock/victim.cgi:/var/www/html/victim.cgi
     hostname: shellshock
     networks:
       vulhubnet:
@@ -33,7 +33,7 @@ services:
     image: vulhub/phpmyadmin:4.8.1
     container_name: phpmyadmin
     volumes:
-      - /home/$USER/vulhub-lab/phpmyadmin/CVE-2018-12613/config.inc.php:/var/www/html/config.inc.php
+      - ./phpmyadmin/CVE-2018-12613/config.inc.php:/var/www/html/config.inc.php
     ports:
       - "80"
     depends_on:
@@ -57,7 +57,7 @@ services:
         ipv4_address: 10.1.1.8
 
   telnetserver:
-    build: /home/$USER/vulhub-lab/telnetserver/
+    build: ./telnetserver/
     container_name: telnetserver
     tty: true
     ports:
@@ -83,9 +83,9 @@ services:
     image: vulhub/tomcat:8.0
     container_name: tomcat
     volumes:
-      - /home/$USER/vulhub-lab/tomcat/tomcat8/tomcat-users.xml:/usr/local/tomcat/conf/tomcat-users.xml
-      - /home/$USER/vulhub-lab/tomcat/tomcat8/context.xml:/usr/local/tomcat/webapps/manager/META-INF/context.xml
-      - /home/$USER/vulhub-lab/tomcat/tomcat8/context.xml:/usr/local/tomcat/webapps/host-manager/META-INF/context.xml
+      - ./tomcat/tomcat8/tomcat-users.xml:/usr/local/tomcat/conf/tomcat-users.xml
+      - ./tomcat/tomcat8/context.xml:/usr/local/tomcat/webapps/manager/META-INF/context.xml
+      - ./tomcat/tomcat8/context.xml:/usr/local/tomcat/webapps/host-manager/META-INF/context.xml
     ports:
       - "8080:8080"
     hostname: tomcat
@@ -94,7 +94,7 @@ services:
         ipv4_address: 10.1.1.12
 
   kali:
-    #build: /home/$USER/vulhub-lab/kali/
+    #build: ./kali/
     # Note: If you don't want to build everything, use the image then apt install what you want/need
     # Also note: Building everything, even kali-linux-headless, takes a really long time to build
     image: kalilinux/kali-rolling
