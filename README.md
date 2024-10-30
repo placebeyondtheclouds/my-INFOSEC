@@ -1,4 +1,4 @@
-## Reports, blogs and resources on information security
+# Reports, blogs and resources on information security
 
 more links for security resources: https://github.com/mthcht/awesome-lists
 
@@ -71,9 +71,10 @@ more links for security resources: https://github.com/mthcht/awesome-lists
 
   - https://media.defcon.org/
 
-# deploy security research env
+# Deploy security research environment
 
 - `git clone https://github.com/JonGood/vulhub-lab.git`
+- `cd vulhub-lab`
 - replace docker-compose.yml with [vulnhub-lab.yml](vulnhub-lab.yml)
 - `sudo docker compose up`
 - `sudo docker exec -it kali /bin/bash`
