@@ -1,0 +1,32 @@
+FROM kalilinux/kali-rolling
+
+ENV DEBIAN_FRONTEND noninteractive
+ENV TERM xterm-256color
+
+
+# Install Kali Headless
+#RUN rm -fR /var/lib/apt/ && \
+#    apt-get clean
+RUN apt update && apt -y install kali-linux-headless
+#COPY <<EOF /etc/apt/sources.list
+# deb http://http.kali.org/kali kali-rolling main contrib non-free
+# deb http://http.kali.org/kali sana main non-free contrib
+# deb http://security.kali.org/kali-security sana/updates main contrib non-free
+# deb http://old.kali.org/kali moto main non-free contrib
+#EOF
+
+#RUN    apt-get update -y && \
+#    apt-get install -y software-properties-common kali-linux-headless --fix-missing
+
+# Update DB and clean'up!
+RUN updatedb && \
+    apt-get autoremove -y && \
+    apt-get clean
+
+# Enable SSH
+RUN sudo update-rc.d -f ssh remove && \
+    sudo update-rc.d -f ssh defaults && \
+    sudo service ssh restart && \
+    sudo update-rc.d -f ssh enable 2 3 4 5
+
+CMD ["/bin/bash"]

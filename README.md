@@ -2,6 +2,8 @@
 
 more links for security resources: https://github.com/mthcht/awesome-lists
 
+more mindmaps https://github.com/Ignitetechnologies/Mindmap
+
 - ### Noise storms
 
   - https://darthnull.org/noisestorms/
@@ -19,6 +21,7 @@ more links for security resources: https://github.com/mthcht/awesome-lists
   - https://www.virustotal.com/
   - https://viz.greynoise.io/
   - https://urlscan.io/
+  - https://search.censys.io
 
 - ### APT profiles
 
