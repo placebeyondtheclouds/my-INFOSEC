@@ -22,6 +22,7 @@ more mindmaps https://github.com/Ignitetechnologies/Mindmap
   - https://viz.greynoise.io/
   - https://urlscan.io/
   - https://search.censys.io
+  - https://www.hybrid-analysis.com/
 
 - ### APT profiles
 
@@ -64,6 +65,7 @@ more mindmaps https://github.com/Ignitetechnologies/Mindmap
   - https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/
   - https://redops.at/en/knowledge-base
   - https://www.welivesecurity.com/en/eset-research/mind-air-gap-goldenjackal-gooses-government-guardrails/
+  - https://5mukx.site/blog.html
 
 - ### Magazines
 
