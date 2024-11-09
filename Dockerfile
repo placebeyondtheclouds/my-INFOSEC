@@ -8,12 +8,12 @@ ENV TERM xterm-256color
 #RUN rm -fR /var/lib/apt/ && \
 #    apt-get clean
 RUN apt update && apt -y install kali-linux-headless
-#COPY <<EOF /etc/apt/sources.list
+# COPY <<EOF /etc/apt/sources.list
 # deb http://http.kali.org/kali kali-rolling main contrib non-free
 # deb http://http.kali.org/kali sana main non-free contrib
 # deb http://security.kali.org/kali-security sana/updates main contrib non-free
 # deb http://old.kali.org/kali moto main non-free contrib
-#EOF
+# EOF
 
 #RUN    apt-get update -y && \
 #    apt-get install -y software-properties-common kali-linux-headless --fix-missing

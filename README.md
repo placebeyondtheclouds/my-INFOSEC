@@ -1,17 +1,11 @@
 # Reports, blogs and resources on information security
 
-more links for security resources: https://github.com/mthcht/awesome-lists
-
-more mindmaps https://github.com/Ignitetechnologies/Mindmap
+Here I collect links to reports, blogs and resources on information security. This is my personal collection, much more can be found here https://github.com/mthcht/awesome-lists, here https://github.com/tom0li/collection-document and here https://github.com/Ignitetechnologies/Mindmap .
 
 - ### Noise storms
 
   - https://darthnull.org/noisestorms/
   - https://www.greynoise.io/blog/greynoise-reveals-new-internet-noise-storm-secret-messages-and-the-china-connection
-
-- ### Indicators of compromise
-
-  - https://github.com/eset/malware-ioc/
 
 - ### Malware scanners
 
@@ -23,6 +17,19 @@ more mindmaps https://github.com/Ignitetechnologies/Mindmap
   - https://urlscan.io/
   - https://search.censys.io
   - https://www.hybrid-analysis.com/
+
+- ### Pentesting methodologies
+
+  - https://github.com/HackTricks-wiki/hacktricks
+  - https://github.com/swisskyrepo/PayloadsAllTheThings
+  - https://github.com/swisskyrepo/InternalAllTheThings
+  - https://github.com/swisskyrepo/HardwareAllTheThings
+  - https://github.com/xapax/security
+  - https://bible.malcore.io/
+  - https://github.com/GTFOBins/GTFOBins.github.io
+  - https://github.com/LOLBAS-Project/LOLBAS
+  - https://github.com/koutto/pi-pwnbox-rogueap/wiki
+  - https://github.com/Mehdi0x90/Web_Hacking
 
 - ### APT profiles
 
@@ -43,7 +50,7 @@ more mindmaps https://github.com/Ignitetechnologies/Mindmap
   - https://gist.github.com/BushidoUK/c6eebfbaaa9058f508233f8551de61ab
   - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix
 
-- ### Threat intelligence
+- ### Threat intelligence blogs
 
   - https://blog.malicious.group/
   - https://css.ethz.ch/en/publications.html
@@ -76,11 +83,11 @@ more mindmaps https://github.com/Ignitetechnologies/Mindmap
 
   - https://media.defcon.org/
 
-# Deploy security research environment
+# Deploy a security research environment
 
 - `git clone https://github.com/JonGood/vulhub-lab.git`
 - `cd vulhub-lab`
-- replace docker-compose.yml with [vulnhub-lab.yml](vulnhub-lab.yml)
+- replace docker-compose.yml with [vulnhub-lab.yml](vulnhub-lab.yml) and [Dockfile](Dockerfile)
 - `sudo docker compose up`
 - `sudo docker exec -it kali /bin/bash`
 - `sudo docker compose down`
