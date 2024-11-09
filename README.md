@@ -18,7 +18,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://search.censys.io
   - https://www.hybrid-analysis.com/
 
-- ### Pentesting methodologies
+- ### Pentesting TTPs
 
   - https://github.com/HackTricks-wiki/hacktricks
   - https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -30,6 +30,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/LOLBAS-Project/LOLBAS
   - https://github.com/koutto/pi-pwnbox-rogueap/wiki
   - https://github.com/Mehdi0x90/Web_Hacking
+  - https://github.com/RfidResearchGroup/proxmark3/tree/master/doc
 
 - ### APT profiles
 
