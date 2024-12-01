@@ -31,6 +31,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/koutto/pi-pwnbox-rogueap/wiki
   - https://github.com/Mehdi0x90/Web_Hacking
   - https://github.com/RfidResearchGroup/proxmark3/tree/master/doc
+  - https://github.com/Bambu-Research-Group/RFID-Tag-Guide/blob/main/README.md
 
 - ### APT profiles
 
@@ -51,7 +52,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://gist.github.com/BushidoUK/c6eebfbaaa9058f508233f8551de61ab
   - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix
 
-- ### Threat intelligence blogs
+- ### Threat intelligence blogs and articles
 
   - https://blog.malicious.group/
   - https://css.ethz.ch/en/publications.html
@@ -74,6 +75,14 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://redops.at/en/knowledge-base
   - https://www.welivesecurity.com/en/eset-research/mind-air-gap-goldenjackal-gooses-government-guardrails/
   - https://5mukx.site/blog.html
+  - https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/
+    - https://github.com/davincifans101/pinduoduo_backdoor_detailed_report/tree/main
+  - https://cocomelonc.github.io/
+  - https://thedfirreport.com/
+
+- ### Leaks
+
+  - https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman
 
 - ### Magazines
 
