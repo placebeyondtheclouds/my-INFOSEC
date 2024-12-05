@@ -79,6 +79,7 @@ Here I collect links to reports, blogs and resources on information security. Th
     - https://github.com/davincifans101/pinduoduo_backdoor_detailed_report/tree/main
   - https://cocomelonc.github.io/
   - https://thedfirreport.com/
+  - https://securityconversations.com/
 
 - ### Leaks
 
