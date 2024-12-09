@@ -81,6 +81,10 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://thedfirreport.com/
   - https://securityconversations.com/
 
+- ### Research papers
+
+  - https://censorbib.nymity.ch/
+
 - ### Leaks
 
   - https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman
