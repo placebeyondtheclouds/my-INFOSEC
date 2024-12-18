@@ -79,7 +79,11 @@ Here I collect links to reports, blogs and resources on information security. Th
     - https://github.com/davincifans101/pinduoduo_backdoor_detailed_report/tree/main
   - https://cocomelonc.github.io/
   - https://thedfirreport.com/
-  - https://securityconversations.com/
+  - https://blog.sekoia.io/a-three-beats-waltz-the-ecosystem-behind-chinese-state-sponsored-cyber-threats/
+
+- ### reports
+
+  - https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf
 
 - ### Research papers
 
@@ -88,6 +92,10 @@ Here I collect links to reports, blogs and resources on information security. Th
 - ### Leaks
 
   - https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman
+
+- ### podcasts
+
+  - https://securityconversations.com/
 
 - ### Magazines
 
