@@ -84,6 +84,7 @@ Here I collect links to reports, blogs and resources on information security. Th
 - ### reports
 
   - https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf
+  - CVE-2024-24919 https://www.hackers-arise.com/post/so-you-thought-your-vpn-was-keeping-you-safe-and-secure
 
 - ### Research papers
 
