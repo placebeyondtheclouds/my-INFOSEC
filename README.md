@@ -80,6 +80,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://cocomelonc.github.io/
   - https://thedfirreport.com/
   - https://blog.sekoia.io/a-three-beats-waltz-the-ecosystem-behind-chinese-state-sponsored-cyber-threats/
+  - https://samy.pl/
 
 - ### reports
 
