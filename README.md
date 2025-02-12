@@ -82,6 +82,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://blog.sekoia.io/a-three-beats-waltz-the-ecosystem-behind-chinese-state-sponsored-cyber-threats/
   - https://samy.pl/
   - https://claroty.com/team82/research/are-contec-cms8000-patient-monitors-infected-with-a-chinese-backdoor-the-reality-is-more-complicated
+  - https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/
 
 - ### reports
 
