@@ -83,6 +83,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://samy.pl/
   - https://claroty.com/team82/research/are-contec-cms8000-patient-monitors-infected-with-a-chinese-backdoor-the-reality-is-more-complicated
   - https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/
+  - https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html
 
 - ### reports
 
