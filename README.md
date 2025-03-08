@@ -84,11 +84,16 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://claroty.com/team82/research/are-contec-cms8000-patient-monitors-infected-with-a-chinese-backdoor-the-reality-is-more-complicated
   - https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/
   - https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html
+  - https://www.rsaconference.com/library/presentation/usa/2020/when-cybercriminals-with-good-opsec-attack (bayrob)
+
+  - https://gfw.report/
 
 - ### reports
 
   - https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf
   - CVE-2024-24919 https://www.hackers-arise.com/post/so-you-thought-your-vpn-was-keeping-you-safe-and-secure
+  - https://www.justice.gov/archives/opa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign-influence
+  - https://www.justice.gov/usao-dc/pr/chinese-nationals-ties-prc-government-and-apt27-charged-computer-hacking-campaign-profit
 
 - ### Research papers
 
@@ -97,6 +102,7 @@ Here I collect links to reports, blogs and resources on information security. Th
 - ### Leaks
 
   - https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman
+  - https://www.cybercrimediaries.com/post/black-basta-chat-leak-organization-and-infrastructures
 
 - ### podcasts
 
