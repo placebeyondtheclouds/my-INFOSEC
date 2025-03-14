@@ -51,6 +51,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/AllTools.csv
   - https://gist.github.com/BushidoUK/c6eebfbaaa9058f508233f8551de61ab
   - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix
+  - https://ransomware.live/groups
 
 - ### Threat intelligence blogs and articles
 
@@ -85,7 +86,6 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/
   - https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html
   - https://www.rsaconference.com/library/presentation/usa/2020/when-cybercriminals-with-good-opsec-attack (bayrob)
-
   - https://gfw.report/
 
 - ### reports
@@ -94,6 +94,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - CVE-2024-24919 https://www.hackers-arise.com/post/so-you-thought-your-vpn-was-keeping-you-safe-and-secure
   - https://www.justice.gov/archives/opa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign-influence
   - https://www.justice.gov/usao-dc/pr/chinese-nationals-ties-prc-government-and-apt27-charged-computer-hacking-campaign-profit
+  - https://www.justice.gov/opa/media/1391896/dl
 
 - ### Research papers
 
