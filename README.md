@@ -17,6 +17,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://urlscan.io/
   - https://search.censys.io
   - https://www.hybrid-analysis.com/
+  - https://otx.alienvault.com/
 
 - ### Pentesting TTPs
 
@@ -33,7 +34,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/RfidResearchGroup/proxmark3/tree/master/doc
   - https://github.com/Bambu-Research-Group/RFID-Tag-Guide/blob/main/README.md
 
-- ### APT profiles
+- ### APT
 
   - https://github.com/blackorbird/APT_REPORT/tree/master/summary/2024
   - https://intrusiontruth.wordpress.com/
@@ -44,6 +45,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.mandiant.com/resources/insights/apt-groups
   - https://unit42.paloaltonetworks.com/stately-taurus-abuses-vscode-southeast-asian-espionage/
   - https://github.com/CyberRa1/APT-Hub/
+  - https://cloud.google.com/blog/topics/threat-intelligence/tracking-apt29-phishing-campaigns
 
 - ### Ransomware TTPs and tools
 
