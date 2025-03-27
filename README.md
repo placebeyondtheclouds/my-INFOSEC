@@ -45,7 +45,9 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.mandiant.com/resources/insights/apt-groups
   - https://unit42.paloaltonetworks.com/stately-taurus-abuses-vscode-southeast-asian-espionage/
   - https://github.com/CyberRa1/APT-Hub/
-  - https://cloud.google.com/blog/topics/threat-intelligence/tracking-apt29-phishing-campaigns
+  - https://www.youtube.com/watch?v=NmSlCsDWKoA
+    - https://i.blackhat.com/BH-US-24/Presentations/US24-Maasakkers-Unraveling-the-Mind-behind-the-APT-Wednesday.pdf
+    - https://github.com/sannemaasakkers/Phishing-analytics
 
 - ### Ransomware TTPs and tools
 
