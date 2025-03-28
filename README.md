@@ -56,6 +56,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://gist.github.com/BushidoUK/c6eebfbaaa9058f508233f8551de61ab
   - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix
   - https://ransomware.live/groups
+  - https://github.com/S3N4T0R-0X0/APT-Attack-Simulation
 
 - ### Threat intelligence blogs and articles
 
