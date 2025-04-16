@@ -109,6 +109,7 @@ Here I collect links to reports, blogs and resources on information security. Th
 
   - https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman
   - https://www.cybercrimediaries.com/post/black-basta-chat-leak-organization-and-infrastructures
+  - https://search.libraryofleaks.org/
 
 - ### podcasts
 
