@@ -33,6 +33,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/Mehdi0x90/Web_Hacking
   - https://github.com/RfidResearchGroup/proxmark3/tree/master/doc
   - https://github.com/Bambu-Research-Group/RFID-Tag-Guide/blob/main/README.md
+  - https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#hackingpenetration-testing-toc
 
 - ### APT
 
