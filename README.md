@@ -125,6 +125,10 @@ Here I collect links to reports, blogs and resources on information security. Th
 
   - https://media.defcon.org/
 
+- ### LLMs
+  - https://huggingface.co/fdtn-ai/Foundation-Sec-8B
+  - https://huggingface.co/WhiteRabbitNeo/WhiteRabbitNeo-2.5-Qwen-2.5-Coder-7B
+
 # Deploy a security research environment
 
 - `git clone https://github.com/JonGood/vulhub-lab.git`
