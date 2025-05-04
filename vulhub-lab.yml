@@ -123,17 +123,3 @@ networks:
         - subnet: 10.1.1.0/24
           gateway: 10.1.1.1
     internal: true
-# docker network create --subnet=10.1.1.0/24 vulhubnet
-#
-# Add these entries to your /etc/hosts file:
-#
-# Vulhub lab
-#10.1.1.5        shellshock
-#10.1.1.6        jenkins
-#10.1.1.7        phpmyadmin
-#10.1.1.8        mysql
-#10.1.1.9        telnetserver
-#10.1.1.10       kali
-#10.1.1.11       solr-log4j
-#10.1.1.12       tomcat
-#10.1.1.13       metasploitable

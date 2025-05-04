@@ -34,6 +34,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/RfidResearchGroup/proxmark3/tree/master/doc
   - https://github.com/Bambu-Research-Group/RFID-Tag-Guide/blob/main/README.md
   - https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#hackingpenetration-testing-toc
+  - https://github.com/The-Hacker-Recipes/The-Hacker-Recipes
 
 - ### APT
 
@@ -133,7 +134,24 @@ Here I collect links to reports, blogs and resources on information security. Th
 
 - `git clone https://github.com/JonGood/vulhub-lab.git`
 - `cd vulhub-lab`
-- replace docker-compose.yml with [vulnhub-lab.yml](vulnhub-lab.yml) and [Dockfile](Dockerfile)
+- replace docker-compose.yml with [vulnhub-lab.yml](vulnhub-lab.yml) and `kali/Dockerfile` with [Dockfile](Dockerfile)
 - `sudo docker compose up`
 - `sudo docker exec -it kali /bin/bash`
 - `sudo docker compose down`
+
+- ~~`docker network create --subnet=10.1.1.0/24 vulhubnet`~~
+
+- Add these entries to your `/etc/hosts` file on kali container:
+
+```
+#Vulhub lab
+10.1.1.5        shellshock
+10.1.1.6        jenkins
+10.1.1.7        phpmyadmin
+10.1.1.8        mysql
+10.1.1.9        telnetserver
+10.1.1.10       kali
+10.1.1.11       solr-log4j
+10.1.1.12       tomcat
+10.1.1.13       metasploitable
+```
