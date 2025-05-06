@@ -35,6 +35,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/Bambu-Research-Group/RFID-Tag-Guide/blob/main/README.md
   - https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#hackingpenetration-testing-toc
   - https://github.com/The-Hacker-Recipes/The-Hacker-Recipes
+  - https://www.ired.team/
 
 - ### APT
 
