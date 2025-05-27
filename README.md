@@ -2,6 +2,11 @@
 
 Here I collect links to reports, blogs and resources on information security. This is my personal collection, much more can be found here https://github.com/mthcht/awesome-lists, here https://github.com/tom0li/collection-document and here https://github.com/Ignitetechnologies/Mindmap .
 
+- ### exploits
+
+  - https://attackerkb.com/
+  - https://www.exploit-db.com/
+
 - ### Noise storms
 
   - https://darthnull.org/noisestorms/
