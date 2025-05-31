@@ -41,6 +41,8 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#hackingpenetration-testing-toc
   - https://github.com/The-Hacker-Recipes/The-Hacker-Recipes
   - https://www.ired.team/
+  - https://orange-cyberdefense.github.io/ocd-mindmaps/
+  - https://blog.syselement.com/ine/courses/ejpt
 
 - ### APT
 
