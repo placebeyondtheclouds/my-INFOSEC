@@ -101,6 +101,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/
   - https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html
   - https://www.rsaconference.com/library/presentation/usa/2020/when-cybercriminals-with-good-opsec-attack (bayrob)
+    - https://www.youtube.com/watch?v=TyGDP8EcNwU
   - https://gfw.report/
 
 - ### reports
@@ -110,6 +111,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.justice.gov/archives/opa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign-influence
   - https://www.justice.gov/usao-dc/pr/chinese-nationals-ties-prc-government-and-apt27-charged-computer-hacking-campaign-profit
   - https://www.justice.gov/opa/media/1391896/dl
+  - https://media.defense.gov/2025/Aug/22/2003786665/-1/-1/0/CSA_COUNTERING_CHINA_STATE_ACTORS_COMPROMISE_OF_NETWORKS.PDF
 
 - ### Research papers
 
