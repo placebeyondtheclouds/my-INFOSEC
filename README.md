@@ -113,6 +113,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.justice.gov/opa/media/1391896/dl
   - https://media.defense.gov/2025/Aug/22/2003786665/-1/-1/0/CSA_COUNTERING_CHINA_STATE_ACTORS_COMPROMISE_OF_NETWORKS.PDF
   - https://www.sgdsn.gouv.fr/files/files/Publications/20250507_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical%20report_Storm-1516.pdf
+  - https://interseclab.org/wp-content/uploads/2025/09/The-Internet-Coup_September2025.pdf
 
 - ### Research papers
 
@@ -124,6 +125,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.cybercrimediaries.com/post/black-basta-chat-leak-organization-and-infrastructures
   - https://search.libraryofleaks.org/
   - https://github.com/D4RK-R4BB1T/Criminal-Leaks/
+  - https://github.com/net4people/bbs/issues/519#issuecomment-3286329872
 
 - ### podcasts
 
