@@ -146,8 +146,12 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://huggingface.co/WhiteRabbitNeo/WhiteRabbitNeo-2.5-Qwen-2.5-Coder-7B
 
 - ### AI attacks and defence
+
   - https://github.com/Trusted-AI/adversarial-robustness-toolbox/
   - https://github.com/NVIDIA/garak
+
+- ### discussions
+  - https://github.com/net4people/bbs/issues
 
 # Deploy a security research environment
 
