@@ -103,6 +103,8 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.rsaconference.com/library/presentation/usa/2020/when-cybercriminals-with-good-opsec-attack (bayrob)
     - https://www.youtube.com/watch?v=TyGDP8EcNwU
   - https://gfw.report/
+  - https://dreadnode.io/blog/lolmil-living-off-the-land-models-and-inference-libraries
+  - https://blacksnufkin.github.io/posts/opsec-offensive-code-review/
 
 - ### reports
 
@@ -126,6 +128,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://search.libraryofleaks.org/
   - https://github.com/D4RK-R4BB1T/Criminal-Leaks/
   - https://github.com/net4people/bbs/issues/519#issuecomment-3286329872
+  - https://gfw.report/blog/geedge_and_mesa_leak/en/
 
 - ### podcasts
 
