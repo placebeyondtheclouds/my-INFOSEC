@@ -129,7 +129,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/D4RK-R4BB1T/Criminal-Leaks/
   - https://github.com/net4people/bbs/issues/519#issuecomment-3286329872
   - https://gfw.report/blog/geedge_and_mesa_leak/en/
-  - https://substack.com/home/post/p-178189244
+  - https://substack.com/home/post/p-178189244 (Knownsec)
 
 - ### podcasts
 
@@ -155,7 +155,12 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/NVIDIA/garak
 
 - ### discussions
+
   - https://github.com/net4people/bbs/issues
+
+- ### OPSEC
+  - https://github.com/jermanuts/bad-opsec
+  - https://buttondown.com/grugq/archive/bad-opsec-considered-harmful/
 
 # Deploy a security research environment
 
