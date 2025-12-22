@@ -139,6 +139,7 @@ Here I collect links to reports, blogs and resources on information security. Th
 
   - https://phrack.org/
   - https://pagedout.institute/
+  - https://unredactedmagazine.com/
 
 - ### Presentations from conferences
 
