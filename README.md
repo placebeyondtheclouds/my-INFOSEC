@@ -41,7 +41,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://blog.syselement.com/ine/courses/ejpt
 
 - ### APT
-  - https://github.com/blackorbird/APT_REPORT/tree/master/summary/2024
+  - https://github.com/blackorbird/APT_REPORT/
   - https://intrusiontruth.wordpress.com/
   - https://andreacristaldi.github.io/APTmap/
   - https://attack.mitre.org/groups/
@@ -53,6 +53,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.youtube.com/watch?v=NmSlCsDWKoA
     - https://i.blackhat.com/BH-US-24/Presentations/US24-Maasakkers-Unraveling-the-Mind-behind-the-APT-Wednesday.pdf
     - https://github.com/sannemaasakkers/Phishing-analytics
+  - https://blog.synapticsystems.de/
 
 - ### Ransomware TTPs and tools
   - https://github.com/crocodyli/ThreatActors-TTPs
@@ -108,6 +109,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://media.defense.gov/2025/Aug/22/2003786665/-1/-1/0/CSA_COUNTERING_CHINA_STATE_ACTORS_COMPROMISE_OF_NETWORKS.PDF
   - https://www.sgdsn.gouv.fr/files/files/Publications/20250507_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical%20report_Storm-1516.pdf
   - https://interseclab.org/wp-content/uploads/2025/09/The-Internet-Coup_September2025.pdf
+  - https://stratcomcoe.org/publications/social-media-manipulation-for-sale-2025-experiment-on-platform-capabilities-to-detect-and-counter-inauthentic-social-media-engagement/338
 
 - ### Research papers
   - https://censorbib.nymity.ch/
