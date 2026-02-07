@@ -3,17 +3,14 @@
 Here I collect links to reports, blogs and resources on information security. This is my personal collection, much more can be found here https://github.com/mthcht/awesome-lists, here https://github.com/tom0li/collection-document and here https://github.com/Ignitetechnologies/Mindmap .
 
 - ### exploits
-
   - https://attackerkb.com/
   - https://www.exploit-db.com/
 
 - ### Noise storms
-
   - https://darthnull.org/noisestorms/
   - https://www.greynoise.io/blog/greynoise-reveals-new-internet-noise-storm-secret-messages-and-the-china-connection
 
 - ### Malware scanners
-
   - https://bazaar.abuse.ch/browse/
   - https://www.joesandbox.com/#windows
   - https://any.run/
@@ -25,7 +22,6 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://otx.alienvault.com/
 
 - ### Pentesting TTPs
-
   - https://github.com/HackTricks-wiki/hacktricks
   - https://github.com/swisskyrepo/PayloadsAllTheThings
   - https://github.com/swisskyrepo/InternalAllTheThings
@@ -45,7 +41,6 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://blog.syselement.com/ine/courses/ejpt
 
 - ### APT
-
   - https://github.com/blackorbird/APT_REPORT/tree/master/summary/2024
   - https://intrusiontruth.wordpress.com/
   - https://andreacristaldi.github.io/APTmap/
@@ -60,7 +55,6 @@ Here I collect links to reports, blogs and resources on information security. Th
     - https://github.com/sannemaasakkers/Phishing-analytics
 
 - ### Ransomware TTPs and tools
-
   - https://github.com/crocodyli/ThreatActors-TTPs
   - https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/AllTools.csv
   - https://gist.github.com/BushidoUK/c6eebfbaaa9058f508233f8551de61ab
@@ -69,7 +63,6 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/S3N4T0R-0X0/APT-Attack-Simulation
 
 - ### Threat intelligence blogs and articles
-
   - https://blog.malicious.group/
   - https://css.ethz.ch/en/publications.html
   - https://thedfirreport.com/
@@ -107,7 +100,6 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://blacksnufkin.github.io/posts/opsec-offensive-code-review/
 
 - ### reports
-
   - https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf
   - CVE-2024-24919 https://www.hackers-arise.com/post/so-you-thought-your-vpn-was-keeping-you-safe-and-secure
   - https://www.justice.gov/archives/opa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign-influence
@@ -118,11 +110,10 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://interseclab.org/wp-content/uploads/2025/09/The-Internet-Coup_September2025.pdf
 
 - ### Research papers
-
   - https://censorbib.nymity.ch/
+  - https://academic.oup.com/cybersecurity
 
 - ### Leaks
-
   - https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman
   - https://www.cybercrimediaries.com/post/black-basta-chat-leak-organization-and-infrastructures
   - https://search.libraryofleaks.org/
@@ -132,31 +123,25 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://substack.com/home/post/p-178189244 (Knownsec)
 
 - ### podcasts
-
   - https://securityconversations.com/
 
 - ### Magazines
-
   - https://phrack.org/
   - https://pagedout.institute/
   - https://unredactedmagazine.com/
 
 - ### Presentations from conferences
-
   - https://media.defcon.org/
 
 - ### Cybersecurity LLMs
-
   - https://huggingface.co/fdtn-ai/Foundation-Sec-8B
   - https://huggingface.co/WhiteRabbitNeo/WhiteRabbitNeo-2.5-Qwen-2.5-Coder-7B
 
 - ### AI attacks and defence
-
   - https://github.com/Trusted-AI/adversarial-robustness-toolbox/
   - https://github.com/NVIDIA/garak
 
 - ### discussions
-
   - https://github.com/net4people/bbs/issues
 
 - ### OPSEC
