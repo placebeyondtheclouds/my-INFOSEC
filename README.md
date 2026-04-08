@@ -54,6 +54,7 @@ Here I collect links to reports, blogs and resources on information security. Th
     - https://i.blackhat.com/BH-US-24/Presentations/US24-Maasakkers-Unraveling-the-Mind-behind-the-APT-Wednesday.pdf
     - https://github.com/sannemaasakkers/Phishing-analytics
   - https://blog.synapticsystems.de/
+  - https://ctrlaltintel.com/research/FancyBear/
 
 - ### Ransomware TTPs and tools
   - https://github.com/crocodyli/ThreatActors-TTPs
