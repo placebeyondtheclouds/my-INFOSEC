@@ -111,6 +111,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://www.sgdsn.gouv.fr/files/files/Publications/20250507_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical%20report_Storm-1516.pdf
   - https://interseclab.org/wp-content/uploads/2025/09/The-Internet-Coup_September2025.pdf
   - https://stratcomcoe.org/publications/social-media-manipulation-for-sale-2025-experiment-on-platform-capabilities-to-detect-and-counter-inauthentic-social-media-engagement/338
+  - https://awesomeagents.ai/news/github-fake-stars-investigation/
 
 - ### Research papers
   - https://censorbib.nymity.ch/
@@ -124,6 +125,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://github.com/net4people/bbs/issues/519#issuecomment-3286329872
   - https://gfw.report/blog/geedge_and_mesa_leak/en/
   - https://substack.com/home/post/p-178189244 (Knownsec)
+  - https://leakradar.io
 
 - ### podcasts
   - https://securityconversations.com/
