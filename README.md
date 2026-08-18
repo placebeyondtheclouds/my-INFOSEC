@@ -100,6 +100,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://gfw.report/
   - https://dreadnode.io/blog/lolmil-living-off-the-land-models-and-inference-libraries
   - https://blacksnufkin.github.io/posts/opsec-offensive-code-review/
+  - https://securitycafe.ro/
 
 - ### reports
   - https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf
