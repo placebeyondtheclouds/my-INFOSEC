@@ -113,6 +113,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://interseclab.org/wp-content/uploads/2025/09/The-Internet-Coup_September2025.pdf
   - https://stratcomcoe.org/publications/social-media-manipulation-for-sale-2025-experiment-on-platform-capabilities-to-detect-and-counter-inauthentic-social-media-engagement/338
   - https://awesomeagents.ai/news/github-fake-stars-investigation/
+  - https://www.genians.co.kr/en/blog/threat_intelligence/kimsuky_ai_llm
 
 - ### Research papers
   - https://censorbib.nymity.ch/
