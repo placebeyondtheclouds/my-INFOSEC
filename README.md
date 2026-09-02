@@ -114,6 +114,7 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://stratcomcoe.org/publications/social-media-manipulation-for-sale-2025-experiment-on-platform-capabilities-to-detect-and-counter-inauthentic-social-media-engagement/338
   - https://awesomeagents.ai/news/github-fake-stars-investigation/
   - https://www.genians.co.kr/en/blog/threat_intelligence/kimsuky_ai_llm
+  - https://dti.domaintools.com/research/threat-intelligence-report-university-leak-exposes-russias-military-cyber-training-pipeline
 
 - ### Research papers
   - https://censorbib.nymity.ch/
