@@ -115,6 +115,8 @@ Here I collect links to reports, blogs and resources on information security. Th
   - https://awesomeagents.ai/news/github-fake-stars-investigation/
   - https://www.genians.co.kr/en/blog/threat_intelligence/kimsuky_ai_llm
   - https://dti.domaintools.com/research/threat-intelligence-report-university-leak-exposes-russias-military-cyber-training-pipeline
+  - https://github.com/xusheng6/tv-acr-research
+  - https://cdn.plume.com/ca/69/b1c4a022451884c2c6124341c8f5/plumereserachpaper-superproxy-may2026.pdf
 
 - ### Research papers
   - https://censorbib.nymity.ch/
